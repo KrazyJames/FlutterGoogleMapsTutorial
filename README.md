@@ -1,6 +1,8 @@
-# google_maps_tutorial
+# Google Maps Tutorial
 
-A new Flutter project.
+A new Flutter project practicing with Google Maps API for Andorid and iOS, and the Directions API for getting directions and display them on the map.
+
+The tutorial could be found [here](https://www.youtube.com/watch?v=Zz5hMvgiWmY).
 
 ## Getting Started
 
